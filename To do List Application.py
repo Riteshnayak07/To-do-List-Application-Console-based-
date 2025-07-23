@@ -1,5 +1,4 @@
 # todo.py
-
 TASK_FILE = "tasks.txt"
 
 def load_tasks():
